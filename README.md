@@ -23,4 +23,4 @@ I do not plan on working with anyone
 
 ## Do you have any questions of your own?
 
-Honestly, I think I should make my game with love2d.com. Though what do you recommend?
+Honestly, I am not sure what I should use to make the game. I am thinking of using love2d.com, godot, or pico-8. What do you recommend?
