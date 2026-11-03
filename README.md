@@ -7,7 +7,9 @@ A fishing game where the user controls a fisherman or women, who catches fish an
 ## What idea(s) do you have for your final project?
 
 Title: Gon'Fishin
+
 You are a fisherman, the fish wanna be caught. Do it. 
+
 - Control the real and rod while a fish is on the hook
 - Have different types of fish with different values and corresponding difficulty to reel in.
 - I am kind of using the fishing in Stardew Valley as a reference, although I do not want to copy it.
