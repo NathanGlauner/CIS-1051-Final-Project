@@ -1,5 +1,6 @@
 # CIS-1051-Final-Project
-A fishing game where the user controls a fisherman or women, who catches fish and receives money for every fish.
+
+A fishing game where the user controls a fisherman or women, who catches fish and receives money for the fish.
 
 # Preproposal
 
@@ -11,7 +12,8 @@ You are a fisherman, the fish wanna be caught. Do it.
 - Have different types of fish with different values and corresponding difficulty to reel in.
 - I am kind of using the fishing in Stardew Valley as a reference, although I do not want to copy it.
 - The game will be 2d with pixel art for the character, the fish, and the environment
-- I would like to add upgrades to the fishing pole, the characters ability to reel, and revenue 
+- I would like to add upgrades to the fishing pole, the characters ability to reel, and revenue multipliers
+ 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
