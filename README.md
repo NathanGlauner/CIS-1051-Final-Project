@@ -2,30 +2,7 @@
 
 A fishing game where the user controls a fisherman or women, who catches fish and receives money for the fish.
 
-# Preproposal
-
-## What idea(s) do you have for your final project?
-
-Title: Gon'Fishin
-
-You are a fisherman, the fish wanna be caught. Do it. 
-
-- Control the real and rod while a fish is on the hook
-- Have different types of fish with different values and corresponding difficulty to reel in.
-- I am kind of using the fishing in Stardew Valley as a reference, although I do not want to copy it.
-- The game will be 2d with pixel art for the character, the fish, and the environment
-- I would like to add upgrades to the fishing pole, the characters ability to reel, and revenue multipliers
- 
-
-## If you plan to collaborate with one or two classmates, what are their names?
-
-I do not plan on working with anyone
-
-## Do you have any questions of your own?
-
-Honestly, I am not sure what I should use to make the game. I am thinking of using love2d.com, godot, or pico-8. What do you recommend?
-
-
+## (I moved Preproposal to be below the Proposal)
 
 # Proposal
 
@@ -80,3 +57,28 @@ N/A
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
  My next steps will be to learn how to use love2d and find out what will actually be possible. I will need to learn more about the code that is used in video games such as how to have user inputs to control where the character goes, how to create objects, how to create menus for the reel mechanic, talking to npcs, and save, options, and exit game. I will also need to start creating the images that will be used for the character, the environment, and the fish. I will research topics such as beginner video game coding for the basics, how to create things like and inventory for the character, a purse to hold their money, how to add multipliers to certain in game actions for upgrades. I will also need to learn and develop skills on pixel art to create the many types of fish I would like to have.
+
+
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+Title: Gon'Fishin
+
+You are a fisherman, the fish wanna be caught. Do it. 
+
+- Control the real and rod while a fish is on the hook
+- Have different types of fish with different values and corresponding difficulty to reel in.
+- I am kind of using the fishing in Stardew Valley as a reference, although I do not want to copy it.
+- The game will be 2d with pixel art for the character, the fish, and the environment
+- I would like to add upgrades to the fishing pole, the characters ability to reel, and revenue multipliers
+ 
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+I do not plan on working with anyone
+
+## Do you have any questions of your own?
+
+Honestly, I am not sure what I should use to make the game. I am thinking of using love2d.com, godot, or pico-8. What do you recommend?
+
