@@ -24,3 +24,59 @@ I do not plan on working with anyone
 ## Do you have any questions of your own?
 
 Honestly, I am not sure what I should use to make the game. I am thinking of using love2d.com, godot, or pico-8. What do you recommend?
+
+
+
+# Proposal
+
+## What will (likely) be the title of your project?
+
+ - Title: Gon Fishin
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+ - A 2d game about fishing, catching rare fish, selling fish, and upgrading the players fishing gear. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+ My software will take an input from the user to control the character, that can allow them to fish, walk around, purchase supplies, and upgrade their tools. There will be features on reeling a fish which will require the user to make the proper inputs to catch the fish. Fish caught will be randomized with some fishing being common, others being uncommon, rare, legendary, and possibly mutations. The player will be able to sell these fish and catalog them to gain money for upgrades. There will be upgrades for fishing rods, which will increase catch rates and unlock abilities to catch higher rarity fish. This will be executed through love2d, and hopefully have all these mechanics though I am unsure if it will be possible within this time frame and since Ive never made a video game before!
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+N/A
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+ - Be able to catch fish
+ - Have different rarities for fish 3-5 different fish
+ - Have a reel in mechanic
+ - Give the player money for selling fish
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+ - Be able to catch fish
+ - Have different rarities for fish 10-15 different fish
+ - Have a range of difficulty in the reel in mechanic which will correspond to fish rarity/sell cost
+ - Give the player money for selling fish that can be used to buy upgrades for reel in ability/ fish hook chance.
+ - Allow the character to walk around to potentially other fishing spots
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+ 
+ - Be able to catch fish
+ - Have different rarities for fish 20+ different fish with extremely rare mutated fish 
+ - Have a range of difficulty in the reel in mechanic which will correspond to fish rarity/sell cost
+ - Have a vendor for selling fish to that sells upgrades of fishing rods, fishing lures, tackle.
+ - Player experience level for fishing.
+ - Have an upgrade menu that can increase selling cost of fish, hook chance, and casting distance (increase the chance of catching high rarity fish)
+ - Have a full map with different fishing locations that correspond to what fish are in the water. (pond, river, lake, and ocean)
+ - Maybe have the character be able to take a boat out
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+ My next steps will be to learn how to use love2d and find out what will actually be possible. I will need to learn more about the code that is used in video games such as how to have user inputs to control where the character goes, how to create objects, how to create menus for the reel mechanic, talking to npcs, and save, options, and exit game. I will also need to start creating the images that will be used for the character, the environment, and the fish. I will research topics such as beginner video game coding for the basics, how to create things like and inventory for the character, a purse to hold their money, how to add multipliers to certain in game actions for upgrades. I will also need to learn and develop skills on pixel art to create the many types of fish I would like to have.
